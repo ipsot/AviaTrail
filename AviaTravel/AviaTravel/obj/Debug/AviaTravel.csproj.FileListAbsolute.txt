@@ -1,0 +1,6 @@
+C:\Users\mort8\source\repos\AviaTravel\AviaTravel\bin\Debug\AviaTravel.exe.config
+C:\Users\mort8\source\repos\AviaTravel\AviaTravel\bin\Debug\AviaTravel.exe
+C:\Users\mort8\source\repos\AviaTravel\AviaTravel\bin\Debug\AviaTravel.pdb
+C:\Users\mort8\source\repos\AviaTravel\AviaTravel\obj\Debug\AviaTravel.csprojAssemblyReference.cache
+C:\Users\mort8\source\repos\AviaTravel\AviaTravel\obj\Debug\AviaTravel.exe
+C:\Users\mort8\source\repos\AviaTravel\AviaTravel\obj\Debug\AviaTravel.pdb
